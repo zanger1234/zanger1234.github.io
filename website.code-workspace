@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "zanger1234.github.io",
+			"path": "../../Github/zanger1234.github.io/zanger1234.github.io"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdlib.h": "c"
+		}
+	}
+}
